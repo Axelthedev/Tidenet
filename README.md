@@ -1,7 +1,6 @@
 # 🌊 TideNet
 
-Plataforma de simulación multi-agente donde agentes autónomos
-se comportan como mareas oceánicas.
+A multi-agent simulation where autonomous entities behave like ocean tides — rising, falling, and carrying knowledge through dynamic information currents.
 
 ## Instalación y arranque
 
