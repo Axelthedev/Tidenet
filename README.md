@@ -1,7 +1,6 @@
 # 🌊 TideNet
 
-A multi-agent simulation where autonomous entities behave like ocean tides — rising, falling, and carrying knowledge through dynamic information currents.
-
+A multi-agent simulation where autonomous entities behave like ocean tides — rising, falling, and carrying knowledge through dynamic information currents
 ## Instalación y arranque
 
 ```bash
